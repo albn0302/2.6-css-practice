@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+/* Canvas reset */
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Header font styling */
+h1, h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700px;
+}
+
+h1 {
+    /* Header spacing */
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    /* Color and font size */
+    color: white;
+    font-size: 2.5rem;
+}
+
+/* Header background style */
+#header-div {
+    background-color: black;
+    width: 520px;
+}
+
+p {
+    /* Text spacing */
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 500px;
+
+    /* Font */
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Text background style */
+.text-div {
+    background-color: floralwhite;
+    width: 520px;
+}
+
+h3 {
+    /* Sub-header spacing */
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    /* Color */
+    color: white;
+}
+
+/* Sub-header background style */
+.sub-header-div {
+    background-color: darkgray;
+    width: 520px;
+}
